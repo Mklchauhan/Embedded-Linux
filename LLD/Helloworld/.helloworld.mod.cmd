@@ -1,0 +1,1 @@
+savedcmd_/home/mukul/Documents/Linux/Embedded-Linux/LLD/Helloworld/helloworld.mod := printf '%s\n'   helloworld.o | awk '!x[$$0]++ { print("/home/mukul/Documents/Linux/Embedded-Linux/LLD/Helloworld/"$$0) }' > /home/mukul/Documents/Linux/Embedded-Linux/LLD/Helloworld/helloworld.mod

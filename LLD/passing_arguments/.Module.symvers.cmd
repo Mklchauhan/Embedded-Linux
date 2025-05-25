@@ -1,0 +1,1 @@
+savedcmd_/home/mukul/Documents/Linux/Embedded-Linux/LLD/passing_arguments/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/mukul/Documents/Linux/Embedded-Linux/LLD/passing_arguments/Module.symvers -T /home/mukul/Documents/Linux/Embedded-Linux/LLD/passing_arguments/modules.order -i Module.symvers -e 
